@@ -5,7 +5,8 @@
 This repository contains the implementation of the book "Natural Language Processing with Transformers" by the brilliant minds at Hugging Face [Lewis Tunstall](https://www.linkedin.com/in/lewis-tunstall/), [Leandro von Werra](https://www.linkedin.com/in/lvwerra/) and [Thomas Wolf](https://www.linkedin.com/in/thom-wolf/)   
 Each chapter from the book has been meticulously implemented and organized into separate folders for easy navigation and understanding.
   
-[Non Affiliate Book Link](https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799/ref=sr_1_1?crid=S775QKHIMHGC&keywords=huggingface+transformers+book&qid=1696265419&sprefix=huggingface+trans%2Caps%2C399&sr=8-1)
+- [Non Affiliate Book Link](https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799/ref=sr_1_1?crid=S775QKHIMHGC&keywords=huggingface+transformers+book&qid=1696265419&sprefix=huggingface+trans%2Caps%2C399&sr=8-1)
+- [HuggingFace Course Link](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
   
 ## Table of Contents
 
